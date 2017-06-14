@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RealmTest</string>
+    <string name="adb_info">Run on adb: $adb shell am startservice -n com.santoshag.realmtest/.services.MyIntentService -a "com.santoshag.realmtest.services.action.notify"</string>
+</resources>
